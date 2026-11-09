@@ -1,6 +1,5 @@
-<img src="https://html5test.co/images/html5test.svg" width="250">
 
-### Updated domain: [html5test.co](https://html5test.co)
+### Updated domain: 
 
 This is a website for testing web standards in the browser. The HTML5 test score is an indication 
 of how well your browser supports the HTML5 standard and related specifications. Find out which 
